@@ -1,0 +1,14 @@
+{
+  "name": "thisgenderdoesnotexist",
+  "private": true,
+  "license": "UNLICENSED",
+  "source": "main.js",
+  "scripts": {
+    "build": "microbundle"
+  },
+  "dependencies": {
+    "FitText-UMD": "^1.0.0",
+    "foswig": "^1.1.1",
+    "microbundle": "^0.11.0"
+  }
+}
